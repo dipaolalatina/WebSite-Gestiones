@@ -263,7 +263,7 @@
 
     <div class="container-fluid padTop50">
       <div class="row padBottom50" id="footer">
-        <h4 class="c-blue text-center padBottom20">Copyright 2019 | Gestiones GS contacto@gestiones.cl Puerto Varas - Santiago</h4>
+        <h4 class="c-blue text-center padBottom20">Copyright 2024 | Gestiones GS contacto@gestiones.cl Puerto Varas - Santiago</h4>
       </div>
       <a href="#inicio" class="page-scroll"><button id="myBtn"></button></a>
     </div>
