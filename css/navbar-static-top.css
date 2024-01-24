@@ -1989,3 +1989,7 @@ button.close{
 #street-view {
   height: 100%;
 }
+
+div#inicio{
+  margin-top: -20px;
+}
