@@ -10,8 +10,11 @@
           <!-- Indicators -->
           <div class="carousel-inner" role="listbox">
             <div class="item slide-1 active">&nbsp;</div>
-            <!--<div class="item slide-2">&nbsp;</div>            
-            <div class="item slide-4">&nbsp;</div>-->
+            <div class="item slide-2">&nbsp;</div>            
+            <div class="item slide-3">&nbsp;</div>
+            <div class="item slide-4">&nbsp;</div>
+            <div class="item slide-5">&nbsp;</div>
+            <div class="item slide-6">&nbsp;</div>
             <!-- Left and right controls -->
             <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
               <!--<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>-->
@@ -58,16 +61,12 @@
             <img src="img/law/ptos-1.png">
           </div>
           <h1 class="c-blue text-center padBottom50">QUIENES SOMOS</h1>
-          <div class="col-xs-12 t-estudio">
-            Gestiones GS nace el año 2017, somos un equipo compuesto por profesionales multidisciplinarios, con 12 años de experiencia en revisión y aprobación de anteproyectos y proyectos, licitaciones, inspección técnica de obras, desarrollo urbano e infraestructura pública. Somos expertos en las leyes que involucran el urbanismo y las construcciones, sus ordenanzas y normativas. Contamos con cobertura en la Región Metropolitana y en la Región de Los Lagos.
+          <div class="col-xs-12 t-estudio">Gestiones GS, fundada en 2017, es un equipo conformado por profesionales multidisciplinarios con una sólida trayectoria conjunta de 12 años de servicio público, en la revisión y aprobación de anteproyectos y proyectos, licitaciones, inspección técnica de obras, así como en el desarrollo urbano e infraestructura pública. Contamos con una profunda expertise en las leyes relacionadas con el urbanismo y las construcciones, sus ordenanzas y normativas, brindando cobertura tanto en la Región Metropolitana como en la Región de Los Lagos. Nuestra misión consiste en proporcionar soluciones óptimas y al alcance de nuestros clientes en normativa legal de construcciones, diseño, inspecciones y servicios de arquitectura.</div>
+          <div class="col-xs-12 col-md-6 col-lg-6 t-estudio padTop50">
+          Nuestra <strong>misión</strong> es proveer soluciones óptimas a nuestros clientes en normativa legal de construcciones, diseño, inspecciones y servicios de arquitectura. En Gestiones GS, sabemos los costos, el tiempo y las dificultades que habitualmente pueden presentarse en este tipo de servicios, es por esto que buscamos agilizar los plazos y brindar soluciones de menor costo, a través de un seguimiento constante, activo y participativo por parte de todos los actores involucrados, lo cual se refleja en la reducción significativa en los plazos del proyecto.
           </div>
           <div class="col-xs-12 col-md-6 col-lg-6 t-estudio padTop50">
-            Nuestra <b>misión</b> es proveer de soluciones óptimas a nuestros clientes en normativa legal de construcciones, diseño, inspecciones y servicios de arquitectura.<br><br>
-            En Gestiones GS, sabemos los costos, el tiempo y las dificultades que habitualmente pueden presentarse en este tipo de servicios, es por esto que buscamos agilizar los plazos y brindar soluciones de menor costo.<br><br>
-            Hacemos eficiente la gestión en las tramitaciones públicas y privadas, a través de un seguimiento constante, activo y participativo por parte de todos los actores involucrados, lo cual se refleja en la reducción de los tiempos en los que usted obtendrá los resultados de su requerimiento.
-          </div>
-          <div class="col-xs-12 col-md-6 col-lg-6 t-estudio padTop50">
-            Nuestra <b>visión</b> como empresa se orienta en ser líderes del campo de gestiones tanto en organismos públicos como privados, emplazándonos como la mejor opción en el mercado para la optimización de tiempos en la obtención de los servicios eficientes y de calidad que Gestiones GS entrega.
+          Nuestra <strong>visión</strong> como empresa apunta a liderar en el ámbito de las gestiones, tanto en organismos públicos como privados. Nos posicionamos como la elección destacada en el mercado para optimizar el proceso de obtención de permisos de obras y garantizar su recepción puntual. Velamos por un contacto fluido y asesorado a lo largo de todo el camino, asegurando una experiencia integral y eficiente para nuestros clientes.
           </div>         
         </div>
       </div>
@@ -82,12 +81,12 @@
           <div class="col-xs-12">
             <div class="col-xs-12 col-md-4 col-lg-4 pad0">
             <div class="cal-1">
-              Estudios de cabida, anteproyectos y proyectos de obras nuevas con o sin densificación
+              Estudios de cabida, anteproyectos y proyectos de obras nuevas
             </div>
             </div>
             <div class="col-xs-12 col-md-4 col-lg-4 pad0">
               <div class="cal-2">
-                Diseño de todo tipo de edificaciones
+                Diseño de todo tipo de edificaciones para todo tipo de usos y destinos
               </div>            
             </div>
             <div class="col-xs-12 col-md-4 col-lg-4 pad0">
@@ -99,7 +98,7 @@
           <div class="col-xs-12">
             <div class="col-xs-12 col-md-4 col-lg-4 pad0">
               <div class="cal-3">
-                Urbanización, apertura de nuevas vías e infraestructura pública
+                Proyectos de urbanización, apertura de nuevas vías e infraestructura pública
               </div>            
             </div>
             <div class="col-xs-12 col-md-4 col-lg-4 pad0">
@@ -109,7 +108,7 @@
             </div>
             <div class="col-xs-12 col-md-4 col-lg-4 pad0">
               <div class="cal-2">
-                Trámites municipales.
+                Trámites municipales e institucionales (Permisología)
               </div>            
             </div>
           </div>
@@ -121,12 +120,12 @@
             </div>
             <div class="col-xs-12 col-md-4 col-lg-4 pad0">
               <div class="cal-2">
-                Coordinación de especialidades y obtención de certificados(*)
+                Coordinación de especialidades y obtención de certificados
               </div>            
             </div>
             <div class="col-xs-12 col-md-4 col-lg-4 pad0">
               <div class="cal-3">
-                Inspecciones de obras, envolventes teóricas
+                Ascesorías urbanísticas
               </div>             
             </div>
           </div>
@@ -192,11 +191,11 @@
       <div class="row padBottom50">
         <div class="col-xs-12 marg0 pad0">
           <div class="col-xs-12 col-md-6">
-            <h4 class="c-blue padBottom20 text-upper">Inspecciones de obras, con fines públicos y privados</h4>
-            <p class="text-serv">Entender lo que ocurre en una obra de construcción es clave a la hora de tomar decisiones y mantener seguimiento de un proyecto.</p>
+            <h4 class="c-blue padBottom20 text-upper">Gerencias de permisos</h4>
+            <p class="text-serv">Nos especializamos en la permisología y gestión integral de toda clase de proyectos de arquitectura, abarcando todas las etapas desde el anteproyecto inicial hasta la recepción final de obras. Nuestro enfoque es garantizar un proceso sin complicaciones, coordinando todas las áreas para la obtención de los permisos necesarios y supervisando cada fase del proyecto hasta su conclusión exitosa.</p>
           </div>
           <div class="col-xs-12 col-md-6 pad0 text-center">
-              <img src="img/serv/06.jpg" class="img-75">
+              <img src="img/serv/2024/06.jpg" class="img-75">
           </div>          
         </div>
       </div>
@@ -206,8 +205,8 @@
               <img src="img/serv/07.png" class="img-75">
           </div>
           <div class="col-xs-12 col-md-6">
-            <h4 class="c-blue padBottom20 text-upper">Gerencia de proyectos y patrocinio de expedientes, con coordinación de especialidades</h4>
-            <p class="text-serv">Toda tramitación cuenta con una serie de factores y plazos que convergen en la aprobación de un proyecto. En Gestiones GS somos especialistas en gestionar tramitaciones ante todo tipo de entidad pública y privada, entregando las mejores soluciones y plazos, según su requerimiento.</p>
+            <h4 class="c-blue padBottom20 text-upper">Patrocinio de expedientes y coordinación de especialidades</h4>
+            <p class="text-serv">Nos enfocamos en coordinar diferentes especialidades como las sanitarias, eléctricas, y de gas, entre otras. Nuestro trabajo consiste en asegurar que todas estas áreas estén integradas de manera eficiente y armoniosa en proyectos, facilitando así su desarrollo y recepción exitosa.</p>
           </div>
         </div>
       </div>

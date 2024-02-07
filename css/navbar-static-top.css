@@ -30,10 +30,12 @@ label, .text-muted{text-transform: none!important;}
 .bg-mapa-2{background-image: url('../img/mapa-2.png');background-size: cover;background-repeat: no-repeat;height:306px;margin-bottom: 50px;}
 .bg-nosotros{background-image: url('../img/bg-nosotros.jpg');background-size: cover;background-repeat: no-repeat;}
 
-.slide-1{background-image: url('../img/law/slide-1.jpg');background-size: 100%;background-repeat: no-repeat; background-position: 50% 50%;}
-.slide-2{background-image: url('../img/law/slide-2.jpg');background-size: 100%;background-repeat: no-repeat; background-position: 50% 50%;}
-.slide-3{background-image: url('../img/law/slide-3.jpg');background-size: 100%;background-repeat: no-repeat; background-position: 50% 50%;}
-.slide-4{background-image: url('../img/law/slide-4.jpg');background-size: 100%;background-repeat: no-repeat; background-position: 50% 50%;}
+.slide-1{background-image: url('../img/law/2024/slide-1.jpg');background-size: 100%;background-repeat: no-repeat; background-position: 50% 50%;}
+.slide-2{background-image: url('../img/law/2024/slide-2.jpg');background-size: 100%;background-repeat: no-repeat; background-position: 50% 50%;}
+.slide-3{background-image: url('../img/law/2024/slide-3.jpg');background-size: 100%;background-repeat: no-repeat; background-position: 50% 50%;}
+.slide-4{background-image: url('../img/law/2024/slide-4.jpg');background-size: 100%;background-repeat: no-repeat; background-position: 50% 50%;}
+.slide-5{background-image: url('../img/law/2024/slide-5.jpg');background-size: 100%;background-repeat: no-repeat; background-position: 50% 50%;}
+.slide-6{background-image: url('../img/law/2024/slide-6.jpg');background-size: 100%;background-repeat: no-repeat; background-position: 50% 50%;}
 
 h1, h2, h3, h4{
   font-family: 'AvenirHeavy';
