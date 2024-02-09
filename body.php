@@ -125,7 +125,7 @@
             </div>
             <div class="col-xs-12 col-md-4 col-lg-4 pad0">
               <div class="cal-3">
-                Ascesorías urbanísticas
+                Asesorías urbanísticas
               </div>             
             </div>
           </div>
